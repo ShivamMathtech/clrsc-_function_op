@@ -127,6 +127,8 @@ int main() {
 * [ANSI Escape Codes](https://en.wikipedia.org/wiki/ANSI_escape_code)
 * [ncurses Library](https://invisible-island.net/ncurses/)
 
+  ## By Shivam Singh
+
 ```
-# Shivam Singh
+
 ```
