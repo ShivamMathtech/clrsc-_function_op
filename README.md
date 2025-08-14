@@ -1,6 +1,3 @@
-Here’s a **`README.md`** for the `clrscr()` function in an advanced, well-structured way so it looks professional.
-
----
 
 ````markdown
 # `clrscr()` Function in C
